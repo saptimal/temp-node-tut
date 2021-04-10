@@ -1,0 +1,5 @@
+I am the brand new third text file. Here is the result of merging 1st and 2nd into a new file: Hello this is first text file :)
+, Hello this is second text file :)
+I am the brand new third text file. Here is the result of merging 1st and
+2nd into a new file: Hello this is first text file :)
+, Hello this is second text file :)
